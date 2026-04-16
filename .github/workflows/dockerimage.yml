@@ -25,4 +25,4 @@ jobs:
         with:
           push: true
           platforms: linux/amd64,linux/arm64
-          tags: qwertyuiop8899/qwertyuiop8899:latest
+          tags: qwertyuiop8899/selfstream:latest
